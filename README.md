@@ -1,3 +1,3 @@
 # My-ML-Service
 
-A machine learning web service using Django
+A machine learning web service using Django, REST, and Docker.
